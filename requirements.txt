@@ -1,0 +1,7 @@
+certifi
+datasets
+openpyxl
+pandas
+pillow
+reportlab
+
